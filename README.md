@@ -1,1 +1,1 @@
-I use only HTML & CSS in this project.. 
+I used only HTML & CSS in this project. 
